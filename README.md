@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharun-reddy
-- 👀 I’m interested in Deep learning, React, RESTful API
+- 👀 I’m interested in praciticing Machine learning, Deep learning. UI/UX also interests me, basically React
 - 🌱 I’m currently working on building automation applications using Machine learning, Deep learning, React, NodeJS
 - 💞️ I’m looking to collaborate on Python frameworks, Application of ML/DL
 - 📫 How to reach me email: tharunreddy.n@gmail.com | website: https://tharun.dev
